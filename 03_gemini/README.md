@@ -26,6 +26,11 @@
 
 
 ## Read more
-- [pydantic docs](https://docs.pydantic.dev/latest/)
+
+From gemini documentation
+
+- [quickstart](https://ai.google.dev/gemini-api/docs/quickstart?gclsrc=aw.ds&gad_source=1&gad_campaignid=21341690381&gbraid=0AAAAACn9t66SMwh6I6KVahCTfyPMVbP9j)
+- [rate limits](https://ai.google.dev/gemini-api/docs/rate-limits)
+- [text generation](https://ai.google.dev/gemini-api/docs/text-generation)
 
 ## Other videos
