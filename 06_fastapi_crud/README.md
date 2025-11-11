@@ -27,5 +27,8 @@ We'll do some filtering with path parameters and query parameters. We'll validat
 
 ## Read more
 - [pydantic docs](https://docs.pydantic.dev/latest/)
+- [fastapi to serve data](https://github.com/AIgineerAB/AI_engineering_course/tree/main/09_fastapi_data)
 
 ## Other videos
+
+- [fastapi to serve data](https://www.youtube.com/watch?v=xSAvbH_v1R4)
