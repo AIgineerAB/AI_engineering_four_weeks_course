@@ -6,8 +6,6 @@ TODO: video
   <img src="https://github.com/kokchun/assets/blob/main/python_videos/course_structure.png?raw=true" alt="course structure" width="600">
 </a> -->
 
-
-
 All course material can be found in this github repository. The course material is described in this table
 
 | Type of material | Description                                        | Location                     |
