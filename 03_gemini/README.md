@@ -1,8 +1,5 @@
 # Pydantic to work with data using OOP
 
-
-## TODO: video
-
 **part 1 - General theory about LLM**
 
 <a href="https://youtu.be/Ei66WLCs0aw" target="_blank">
